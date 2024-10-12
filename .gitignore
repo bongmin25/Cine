@@ -1,0 +1,4 @@
+/back/node_modules
+/front/node_modules
+/challenge-testing/node_modules
+.env
